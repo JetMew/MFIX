@@ -1,0 +1,12 @@
+numpy~=1.21.6
+scipy~=1.7.3
+ConfigSpace~=0.4.21
+openbox~=0.7.16
+PyYAML~=6.0
+gym
+keras-rl2
+psycopg2
+sqlparse
+sql_metadata
+pyrfr
+timeout_decorator
